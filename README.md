@@ -1,5 +1,7 @@
 # Elise Stanculescu
 ## Local Git Check
-git version 2.39.5
+Git Version 2.39.5
 
 this line was added on github.com
+
+i was here on rstudio
